@@ -1,1 +1,1 @@
-Base de code pour le cours HTML CSS
+Jeremiah RANAIVO Siteweb
